@@ -1,0 +1,11 @@
+__pycache__
+venv
+.idea
+.ipynb_checkpoints
+*.txt
+*.json
+*.bak
+*.exe
+*.jpg
+라벨링데이터
+원천데이터
