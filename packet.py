@@ -36,8 +36,6 @@ def mkdir(path):
     path+="/jsonFiles/"
     if not os.path.exists(path):
         os.makedirs(path)
-
-    # os.system("pause")
     return path
 
 def removeProhibitionCharacters(fileName):
